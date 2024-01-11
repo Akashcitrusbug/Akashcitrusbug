@@ -37,7 +37,7 @@ I've had the pleasure of working on diverse and exciting projects. Here are a fe
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and creative minds. Reach out through the following channels:
 
-- Email: akash.soni@example.com
+- Email: akash.citrusbug@gmail.com 
 
 ## ⚡ Fun Fact
 
