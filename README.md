@@ -6,7 +6,7 @@
 
 🚀 Full Stack Developer | 💻 Python & React Enthusiast | 🌐 Tech Explorer
 
-Welcome to my GitHub profile! I'm Akash Soni, a dedicated full-stack developer with over 4 years of experience in building robust and scalable web applications. My expertise lies in Python, Django, Flask, DRF, React, and Redux. Let's embark on a journey through my coding endeavors!
+Welcome to my GitHub profile! I'm **Akash Soni**, a dedicated **full-stack developer** with over **5+ years** of experience in building robust and scalable web applications. My expertise lies in **Python, Django, Flask, DRF, React, and Redux**. Let's embark on a journey through my coding endeavors!
 
 ## 💻 My Tech Stack
 
@@ -15,29 +15,27 @@ Welcome to my GitHub profile! I'm Akash Soni, a dedicated full-stack developer w
 - Databases: **MySQL**, **PostgreSQL**, **MongoDB**
 - Testing: **PyTest**, **Jest**
 - Version Control: **Git**
-- Mobile App: **React Native**
 
 ## 🌱 Learning & Exploring
 
 I am committed to continuous learning and staying abreast of the latest technologies. Currently, I am delving into:
 
 - **Advanced React Concepts**: Enhancing my skills in React and diving into Next.js.
-- **Microservices Architecture**: Exploring the world of scalable and modular architectures.
-- **GraphQL Integration**: Leveraging GraphQL for efficient data fetching.
+- **Mobile App**: Exploring React Native (Cross-platform mobile development).
 
 ## 🚀 My Projects
 
 I've had the pleasure of working on diverse and exciting projects. Here are a few highlights:
 
-1. [PyCommerce](https://pycommerce.com/): An e-commerce platform built with Django and React.
-2. [FlaskChat](https://flaskchat.io/): A real-time chat application powered by Flask and WebSocket.
-3. [ReactDash](https://reactdash.app/): A customizable dashboard built with React and Redux.
+1. **[Boloo.co](https://boloo.co/)**: A robust React and Django SAAS platform empowering eCommerce entrepreneurs with modules like order management, campaigns, and automation for growth.
+2. **[https://workaxle.com/](https://workaxle.com/)**: Simplifying workforce management with features like timesheets, scheduling, and communication channels using an intuitive solution.
 
 ## 📫 Let's Connect
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and creative minds. Reach out through the following channels:
 
-- Email: akash.citrusbug@gmail.com 
+- LinkedIn: **[Akash Soni](https://www.linkedin.com/in/akash-sonice/)**
+- Email: **akash.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
 
