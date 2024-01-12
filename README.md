@@ -28,7 +28,7 @@ I am committed to continuous learning and staying abreast of the latest technolo
 I've had the pleasure of working on diverse and exciting projects. Here are a few highlights:
 
 1. **[Boloo.co](https://boloo.co/)**: A robust React and Django SAAS platform empowering eCommerce entrepreneurs with modules like order management, campaigns, and automation for growth.
-2. **[https://workaxle.com/](https://workaxle.com/)**: Simplifying workforce management with features like timesheets, scheduling, and communication channels using an intuitive solution.
+2. **[Workaxle](https://workaxle.com/)**: Simplifying workforce management with features like timesheets, scheduling, and communication channels using an intuitive solution.
 
 ## 📫 Let's Connect
 
